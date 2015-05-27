@@ -6,7 +6,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 
-namespace concurrentprj.Controllers
+namespace concurrentprj.Controllers 
 {
     public class HomeController : Controller
     {
